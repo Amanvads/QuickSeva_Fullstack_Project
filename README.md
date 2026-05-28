@@ -99,3 +99,5 @@ Frontend runs on:
 ## Project Nickname
 
 QuickSeva
+
+Updated deployment fix
